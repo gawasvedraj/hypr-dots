@@ -1,6 +1,7 @@
 {
     "layer":"top",
-    "height": 35, 
+    "height": 34,
+    "spacing": 2, 
     "modules-left": ["hyprland/workspaces", "hyprland/mode", "hyprland/window"],
     "modules-center": [],
     "modules-right": ["pulseaudio", "backlight", "network", "cpu", "memory", "battery", "clock", "tray"],
