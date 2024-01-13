@@ -1,12 +1,13 @@
 {
+    "layer":"top",
     "height": 35, 
     "modules-left": ["hyprland/workspaces", "hyprland/mode", "hyprland/window"],
     "modules-center": [],
     "modules-right": ["pulseaudio", "backlight", "network", "cpu", "memory", "battery", "clock", "tray"],
-    "sway/mode": {
+    "hyprland/mode": {
         "format": "<span style=\"italic\">{}</span>"
     },
-    "sway/window": {
+    "hyprland/window": {
         "max-length": 50
     },
     "tray": {
