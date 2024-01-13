@@ -1,4 +1,4 @@
-# Hyperland Dots
+# Hyprland Dots
 
 ## Hypr
 ```
